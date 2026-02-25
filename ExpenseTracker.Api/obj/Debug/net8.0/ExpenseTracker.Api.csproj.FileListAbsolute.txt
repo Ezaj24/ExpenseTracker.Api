@@ -103,3 +103,4 @@ C:\Projects\Expense-Tracker\ExpenseTracker.Api\obj\Debug\net8.0\refint\ExpenseTr
 C:\Projects\Expense-Tracker\ExpenseTracker.Api\obj\Debug\net8.0\ExpenseTracker.Api.pdb
 C:\Projects\Expense-Tracker\ExpenseTracker.Api\obj\Debug\net8.0\ExpenseTracker.Api.genruntimeconfig.cache
 C:\Projects\Expense-Tracker\ExpenseTracker.Api\obj\Debug\net8.0\ref\ExpenseTracker.Api.dll
+C:\Projects\Expense-Tracker\ExpenseTracker.Api\obj\Debug\net8.0\ExpenseTracker.Api.sourcelink.json
